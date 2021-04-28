@@ -26,3 +26,21 @@ div:before {
     bottom: 0;
     margin: 49px;
 }
+
+div:after {
+    content: '';
+    border: 1rem solid #fff;
+    border-radius: 100%;
+    -webkit-border-radius: 100%;
+    -moz-border-radius: 100%;
+    -ms-border-radius: 100%;
+    -o-border-radius: 100%;
+    width: 5rem;
+    height: 5rem;
+    left: 0;
+    right: 0;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    margin: 107px;
+}
