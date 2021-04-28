@@ -1,0 +1,7 @@
+div {
+    height: 20rem;
+    width: 20rem;
+    background: radial-gradient(
+        circle at 33% 100%
+    );
+}
